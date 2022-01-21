@@ -24,7 +24,7 @@
     <packaging>pom</packaging>
     <properties>
         <java.version>13</java.version>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.1.210</h2.version>
         <lombok.version>1.18.10</lombok.version>
         <spring-tx.version>5.2.2.RELEASE</spring-tx.version>
         <axon.version>4.2</axon.version>
